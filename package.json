@@ -1,0 +1,29 @@
+{
+  "name": "homework_sesi11_web-ui-automation-part-2",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha test/**/*.js --timeout 60000"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Bram510/Homework_Sesi11_Web-UI-Automation-Part-2.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/Bram510/Homework_Sesi11_Web-UI-Automation-Part-2/issues"
+  },
+  "homepage": "https://github.com/Bram510/Homework_Sesi11_Web-UI-Automation-Part-2#readme",
+  "dependencies": {
+    "canvas": "^3.2.3",
+    "chai": "^6.3.0",
+    "mocha": "^12.0.3",
+    "pixelmatch": "^8.0.0",
+    "pngjs": "^7.0.0",
+    "selenium-webdriver": "^4.51.0"
+  }
+}

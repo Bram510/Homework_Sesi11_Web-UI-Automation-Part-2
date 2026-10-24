@@ -1,0 +1,9 @@
+# Dependencies
+node_modules/
+
+# Local logs and outputs
+screenshots/
+visual-current/
+visual-diff/
+*.log
+.DS_Store
